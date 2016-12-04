@@ -1,7 +1,7 @@
 Login
 ======
 
-A simple login view built in Swift.
+A simple login view built in Swift. Always learning :bulb:
 
 ## Contributors
 
